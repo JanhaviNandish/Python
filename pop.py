@@ -1,0 +1,13 @@
+l=[1,2,3,4,5,6,7,8,9,10,6]
+a=['asd','fg','tyui','yii']
+print(l.remove(1))
+print(l)
+print(l.pop(1))
+print(l)
+print(l.count(7))
+print(l.index(10))
+print(l.sort())
+print(l)
+print(l.reverse())
+print(l)
+print(l.copy())

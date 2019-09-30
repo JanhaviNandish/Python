@@ -1,0 +1,6 @@
+l=list(range(1,20))
+print(l)
+l.remove(3)
+print(l)
+l.pop()
+print(l)
