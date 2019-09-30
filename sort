@@ -1,0 +1,6 @@
+s=input()
+i=0
+t=''
+for i in n:
+    if (i>='A' and i<='Z') or (i>='a' and i<=z):
+        t+=i
